@@ -1,0 +1,7 @@
+git init 
+git clone
+git diff
+git log --oneline --decorate --graph
+git push
+git pull
+git commit
